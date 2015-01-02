@@ -1,0 +1,4 @@
+main-class=com.hardraada.minecraft.plugin.telnet.TelnetPlugin
+name=Telnet
+author=hardraada1
+version=1.0

@@ -1,0 +1,9 @@
+target/classes/Canary.inf
+target/classes/com/hardraada/minecraft/plugin/telnet/CommandBroker.class
+target/classes/com/hardraada/minecraft/plugin/telnet/CommandWorker.class
+src/test/java/com/hardraada/minecraft/plugin/telnet/AppTest.java
+target/classes/com/hardraada/minecraft/plugin/telnet/Credential.class
+target/classes/com/hardraada/minecraft/plugin/telnet/TelnetPlugin.class
+target/classes/com/hardraada/minecraft/plugin/telnet/TelnetServer.class
+target/maven-archiver/pom.properties
+target/test-classes/com/hardraada/minecraft/plugin/telnet/AppTest.class
